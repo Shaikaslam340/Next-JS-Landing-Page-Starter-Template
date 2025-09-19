@@ -1,4 +1,9 @@
 # Landing Page Template built with Next JS 10+, Tailwind CSS 2.0 and TypeScript
+Best Electric Cycles store India : https://voltebyk.in
+
+Best Electric Cycles in India : https://voltebyk.com
+
+Best Electric Cycles spares store India : https://cyclespares.in
 
 <p align="center">
   <a href="https://creativedesignsguru.com/demo/nextjs-landing-page/"><img src="public/assets/images/nextjs-landing-page-banner.png?raw=true" alt="Next js starter banner"></a>
